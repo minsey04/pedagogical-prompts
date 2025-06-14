@@ -1,7 +1,6 @@
 # pedagogical-prompts
-# AI vs Human-Crafted Questions: A Comparative Analysis of Prompt Design
 
-## About This Project
+## AI vs Human-Crafted Questions: A Comparative Analysis of Prompt Design
 
 This project is a personal investigation into a question I’ve been asking myself for a while:
 
